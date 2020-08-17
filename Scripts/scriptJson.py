@@ -1,7 +1,7 @@
 import json
 
 def leerJson():
-    with open('data.json') as file:
+    with open("./Data/data.json") as file:
         data = json.load(file)
         print('**Se obtuvo un diccionario de el archivo data.json**')
         print('')

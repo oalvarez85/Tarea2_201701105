@@ -1,7 +1,7 @@
 from xml.dom import minidom
 
 def leerXml():
-    doc = minidom.parse("data.xml")
+    doc = minidom.parse("./Data/data.xml")
     nombre = doc.getElementsByTagName("producto")[0]
     print("** Se obtuvo una estructura XML del archivo data.xml **")
     print("")

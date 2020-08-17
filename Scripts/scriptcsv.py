@@ -1,7 +1,7 @@
 import csv
 
 def leerCSV():
-    with open('data.csv') as File:
+    with open('./Data/data.csv') as File:
         reader = csv.DictReader(File)    
         print('**Se obtuvo un diccionario de el archivo data.csv**')
         print('')

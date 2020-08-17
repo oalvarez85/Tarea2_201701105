@@ -1,6 +1,6 @@
-from scriptJson import leerJson
-from scriptxml import leerXml
-from scriptcsv import leerCSV
+from Scripts.scriptJson import leerJson
+from Scripts.scriptxml import leerXml
+from Scripts.scriptcsv import leerCSV
 
 print('**+ LECTURA DE ARCHIVOS CON REGISTROS +**')
 print('')
