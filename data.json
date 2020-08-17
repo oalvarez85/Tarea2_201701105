@@ -1,0 +1,28 @@
+{
+    "personas":[
+        {
+            "nombre": "Luis",
+            "apellido": "Romero",
+            "sexo": "Masculino",
+            "edad": "21"
+        },
+        {
+            "nombre": "Julia",
+            "apellido": "Juaréz",
+            "sexo": "Femenino",
+            "edad": "15"
+        },
+        {
+            "nombre": "María",
+            "apellido": "Trump",
+            "sexo": "Femenino",
+            "edad": "30"
+        },
+        {
+            "nombre": "Donald",
+            "apellido": "Molina",
+            "sexo": "Masculino",
+            "edad": "45"
+        }
+    ]
+}

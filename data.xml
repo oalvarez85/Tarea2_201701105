@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<tienda>
+    <producto id="1">
+        <nombre>Salsa picante</nombre>
+        <precio>10.00</precio>
+        <existencia>50</existencia>
+        <descuento>2%</descuento>
+    </producto>
+    <producto id="2">
+        <nombre>Sardinas</nombre>
+        <precio>25.50</precio>
+        <existencia>2</existencia>
+        <descuento>5%</descuento>
+    </producto>
+    <producto id="3">
+        <nombre>Jabón</nombre>
+        <precio>30.25</precio>
+        <existencia>15</existencia>
+        <descuento>0%</descuento>
+    </producto>
+    <producto id="4">
+        <nombre>Jugo de uva</nombre>
+        <precio>40.30</precio>
+        <existencia>12</existencia>
+        <descuento>10%</descuento>
+    </producto>
+</tienda>
