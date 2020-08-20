@@ -11,3 +11,5 @@ def leerJson():
             print('Sexo:', client['sexo'])
             print('Edad:', client['edad'])
             print('')
+        print("**La estructura utilizada es:")    
+        print(type(data))

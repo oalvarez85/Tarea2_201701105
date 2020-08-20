@@ -17,3 +17,5 @@ def leerXml():
         print("Existencias: %s" % exitencia.firstChild.data)
         print("Descuento: %s" % descuento.firstChild.data)
         print('')
+    print("**La estructura utilizada es:")    
+    print(type(tienda))

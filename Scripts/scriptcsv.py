@@ -11,3 +11,5 @@ def leerCSV():
             print('DPI:', row["DPI"])
             print('Edad:', row["Edad"])
             print('')
+        print("**La estructura utilizada es:")    
+        print(type(reader))
